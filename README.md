@@ -500,7 +500,4 @@ conversion, and PDF generation.
 
 ## License
 
-No license is specified in the current notebook. Add a `LICENSE` file
-before distributing or accepting contributions to the project. Until a
-license is added, do not assume that the source code is available for
-unrestricted reuse.
+No license is specified in the current notebook.
