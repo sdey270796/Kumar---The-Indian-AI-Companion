@@ -501,3 +501,7 @@ conversion, and PDF generation.
 ## License
 
 No license is specified in the current notebook.
+
+------------------------------------------------------------------------
+
+Any type of contributions will be welcome.
