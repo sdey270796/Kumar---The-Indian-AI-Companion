@@ -1,4 +1,4 @@
-# Kumar --- The Indian AI Companion
+# Kumar - The Indian AI Companion
 
 Kumar is a multimodal AI assistant built in Python with **Gradio** and
 the **DeepSeek API**. The project is implemented as a Google Colab
